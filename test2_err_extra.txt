@@ -1,0 +1,5 @@
+PROGRAM Demo;
+BEGIN
+  WRITE('ok');
+  } лишн€€ закрывающа€ скобка
+END.
